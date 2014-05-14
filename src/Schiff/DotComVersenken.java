@@ -79,6 +79,6 @@ public class DotComVersenken {
         DotComVersenken spiel = new DotComVersenken();
         
         spiel.spielEinrichten();
-        spiel.beginneSpiel();
+        spiel.beginneSpiel(); 
     }
 }
